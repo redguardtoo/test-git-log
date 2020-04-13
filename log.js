@@ -1,1 +1,1 @@
-console.log({bad: true, }); // it's bad
+console.log({bad: false, good: true,}); // it's bad
